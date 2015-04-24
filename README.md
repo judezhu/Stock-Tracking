@@ -1,10 +1,4 @@
-CICS 525 Assignment 1
 Java RMI programming
-
-Author:
-Huang Zhu judezhu.hust@gmail.com	
-Jiahua Chen jason_spider@hotmail.com
-Mu-Jen Wang mujenwang971@gmail.com
 
 we included 3 makefiles in each of the 
 "StockServer", "StockClient" and "StockUpdatePriceClient" folder
@@ -25,5 +19,4 @@ Execution instructions:
 - java StockClient
 - java StockUpdatePriceClient
 
-known bugs: noneStock-Tracking
-==============
+
